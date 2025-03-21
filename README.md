@@ -4,7 +4,7 @@
 このツールでは、 `UsrClass.dat` の `\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\BagMRU` 配下に存在するドライブ配下（Cドライブなど）のフォルダ情報を解析します。  
 最終的にはフォルダパスを構築し、作成日時、更新日時、アクセス日時（JST）の情報をまとめてCSVファイルに出力します。  
 
-詳細は[ブログ記事](https://swime.hatenablog.jp/)の方をご参照ください。
+詳細は[ブログ記事](https://swime.hatenablog.jp/entry/2025/03/21/181545)の方をご参照ください。
 
 ## 実行環境（参考）
 Python 3.12.3
